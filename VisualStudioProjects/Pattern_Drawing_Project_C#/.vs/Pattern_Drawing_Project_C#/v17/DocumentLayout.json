@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|d:\\visualstudioprojects\\pattern_drawing_project_c#\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|d:\\visualstudioprojects\\pattern_drawing_project_c#\\patterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|solutionrelative:patterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|d:\\visualstudioprojects\\pattern_drawing_project_c#\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBEC862-3E0D-42D8-9ECB-07FC207361AE}|Pattern_Drawing_Project_C#.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Utilities.cs",
+              "RelativeDocumentMoniker": "Utilities.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Utilities.cs",
+              "RelativeToolTip": "Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:53:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patterns.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Patterns.cs",
+              "RelativeDocumentMoniker": "Patterns.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Patterns.cs",
+              "RelativeToolTip": "Patterns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:52:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:11:54.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
