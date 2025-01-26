@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.AssemblyInfo.cs
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ExamDebugDuck\bin\Debug\net6.0\ExamDebugDuck.exe
+D:\VisualStudioProjects\ExamDebugDuck\bin\Debug\net6.0\ExamDebugDuck.deps.json
+D:\VisualStudioProjects\ExamDebugDuck\bin\Debug\net6.0\ExamDebugDuck.runtimeconfig.json
+D:\VisualStudioProjects\ExamDebugDuck\bin\Debug\net6.0\ExamDebugDuck.dll
+D:\VisualStudioProjects\ExamDebugDuck\bin\Debug\net6.0\ExamDebugDuck.pdb
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.dll
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\refint\ExamDebugDuck.dll
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.pdb
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ExamDebugDuck.genruntimeconfig.cache
+D:\VisualStudioProjects\ExamDebugDuck\obj\Debug\net6.0\ref\ExamDebugDuck.dll

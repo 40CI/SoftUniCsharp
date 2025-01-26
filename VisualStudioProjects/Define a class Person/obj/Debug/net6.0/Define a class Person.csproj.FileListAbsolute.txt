@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.AssemblyInfo.cs
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Define a class Person\bin\Debug\net6.0\Define a class Person.exe
+D:\VisualStudioProjects\Define a class Person\bin\Debug\net6.0\Define a class Person.deps.json
+D:\VisualStudioProjects\Define a class Person\bin\Debug\net6.0\Define a class Person.runtimeconfig.json
+D:\VisualStudioProjects\Define a class Person\bin\Debug\net6.0\Define a class Person.dll
+D:\VisualStudioProjects\Define a class Person\bin\Debug\net6.0\Define a class Person.pdb
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.dll
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\refint\Define a class Person.dll
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.pdb
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\Define a class Person.genruntimeconfig.cache
+D:\VisualStudioProjects\Define a class Person\obj\Debug\net6.0\ref\Define a class Person.dll

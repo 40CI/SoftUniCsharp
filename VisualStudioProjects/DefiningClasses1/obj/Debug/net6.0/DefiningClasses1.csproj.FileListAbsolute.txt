@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\DefiningClasses1\obj\Debug\net6.0\DefiningClasses1.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\DefiningClasses1\obj\Debug\net6.0\DefiningClasses1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\DefiningClasses1\obj\Debug\net6.0\DefiningClasses1.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DefiningClasses1\obj\Debug\net6.0\DefiningClasses1.AssemblyInfo.cs
+D:\VisualStudioProjects\DefiningClasses1\obj\Debug\net6.0\DefiningClasses1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\ExamSquirel\bin\Debug\net6.0\ExamSquirel.exe
+D:\VisualStudioProjects\ExamSquirel\bin\Debug\net6.0\ExamSquirel.deps.json
+D:\VisualStudioProjects\ExamSquirel\bin\Debug\net6.0\ExamSquirel.runtimeconfig.json
+D:\VisualStudioProjects\ExamSquirel\bin\Debug\net6.0\ExamSquirel.dll
+D:\VisualStudioProjects\ExamSquirel\bin\Debug\net6.0\ExamSquirel.pdb
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.AssemblyInfo.cs
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.dll
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\refint\ExamSquirel.dll
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.pdb
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ExamSquirel.genruntimeconfig.cache
+D:\VisualStudioProjects\ExamSquirel\obj\Debug\net6.0\ref\ExamSquirel.dll
